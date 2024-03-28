@@ -1,1 +1,2 @@
-,stats,screen,bullets
+
+def run_game():
